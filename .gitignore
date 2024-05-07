@@ -4,5 +4,6 @@
 *.jpg
 *.json
 *.pkl
+*.md
 __pycache__/
 .ipynb_checkpoints/
